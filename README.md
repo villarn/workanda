@@ -15,7 +15,7 @@ Para resolver la prueba técnica utilicé exclusivamente:
 Sugerido:
 
 Para correr la aplicación localmente utilicé WampServer e instale el proyecto
-en el directorio www/pruebatecnicaworkanda de wampserver. (en el navegador: http://pruebatecnicaworkanda/)
+en el directorio www/
 
 ---
 
